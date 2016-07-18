@@ -69,6 +69,13 @@ aside {
   -moz-transition: all 0.35s;
   transition: all 0.35s;
 }
+.navbar #logo {
+  float: left;
+  height: 35px;
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
 .navbar-default .navbar-header .navbar-brand {
   color: #F05F40;
   font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
