@@ -218,18 +218,6 @@ header .header-content .header-content-inner p {
 .section-heading {
   margin-top: 0;
 }
-.service-box {
-  max-width: 400px;
-  margin: 50px auto 0;
-}
-@media (min-width: 992px) {
-  .service-box {
-    margin: 20px auto 0;
-  }
-}
-.service-box p {
-  margin-bottom: 0;
-}
 .portfolio-box {
   position: relative;
   display: block;
@@ -463,5 +451,12 @@ body {
   display: block;
 }
 #success_message{ display: none;}
+.image {
+  margin-top: 30px;
+
+}
+#Themas {
+  background-color: #ebebe0;
+}
 
 
