@@ -8,6 +8,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
     <meta name="author" content="">
+    <link rel="icon" href="img/favicon.ico">
+   
 
     <title> Kennisplatform Integratie en burgerschap</title>
 
@@ -200,11 +202,9 @@
                 <div class="col-lg-12 text-center">
                     <h2 class="section-heading">Themas</h2>
                     <hr class="primary">
-                    <div>
-                        <p>
-                            Het Kennisplatform kiest jaarlijks een thema en organiseert daarbij minimaal een stedelijke themabijeenkomst waarbij kennisuitwisseling en vergroten van netwerken centraal staat.Daarnaast organiseert het Kennisplatform (openbare) werkbezoeken aan organisaties om zowel op beleidsmatig als uitvoerend niveau tot kennisuitwisseling op het gebied van integratie en burgerschap te komen.
-                        </p>
-                    </div>
+                    <p>
+                        Het Kennisplatform kiest jaarlijks een thema en organiseert daarbij minimaal een stedelijke themabijeenkomst waarbij kennisuitwisseling en vergroten van netwerken centraal staat.Daarnaast organiseert het Kennisplatform (openbare) werkbezoeken aan organisaties om zowel op beleidsmatig als uitvoerend niveau tot kennisuitwisseling op het gebied van integratie en burgerschap te komen.
+                    </p>
                 </div>
             </div>
         </div>
@@ -226,111 +226,42 @@
         </div>
     </section>
 
-    <section class="no-padding" id="Actuel">
-        <div class="container-fluid">
-            <div class="row no-gutter popup-gallery">
-                <div class="col-lg-4 col-sm-6">
-                    <a href="img/portfolio/fullsize/1.jpg" class="portfolio-box">
-                        <img src="img/portfolio/thumbnails/1.jpg" class="img-responsive" alt="">
-                        <div class="portfolio-box-caption">
-                            <div class="portfolio-box-caption-content">
-                                <div class="project-category text-faded">
-                                    Category
-                                </div>
-                                <div class="project-name">
-                                    Project Name
-                                </div>
-                            </div>
-                        </div>
+
+
+
+
+
+
+    <section id="Actuel">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Actuel</h2>
+                    <hr class="primary">   
+                </div>
+                <div class="col-lg-6 col-sm-6 artikel text-center">
+                    <iframe width="520" height="315" src="https://www.youtube.com/embed/04_TnFp7mDM" frameborder="0" allowfullscreen></iframe>
+                    <p>
+                         Op 22 november 2010 heeft Kennisplatform Integratie & Burgerschap een themabijeenkomst georganiseert. Hieronder leest u het verslag van de bijenkomst.    
+                    </p>
+                    <a href="/file/Overslag.pdf" download="Overslag">
+                        Overslag
                     </a>
                 </div>
-                <div class="col-lg-4 col-sm-6">
-                    <a href="img/portfolio/fullsize/2.jpg" class="portfolio-box">
-                        <img src="img/portfolio/thumbnails/2.jpg" class="img-responsive" alt="">
-                        <div class="portfolio-box-caption">
-                            <div class="portfolio-box-caption-content">
-                                <div class="project-category text-faded">
-                                    Category
-                                </div>
-                                <div class="project-name">
-                                    Project Name
-                                </div>
-                            </div>
-                        </div>
+                <div class="col-lg-6 col-sm-6 artikel text-center">
+                    <img src="img/Actuel1.jpg" alt="" width="520" height="315" >
+                    <p>
+                        Informatiemarkt “Kansen krijgen, kansen grijpen”
+                        Donderdag 7 april a.s. van 20.00 tot 22.00 uur (inloop vanaf 19.30 uur) in de Sint Kuryakoks Kerk, Wesselerbrinklaan 110 Enschede
+                    </p>
+                    <a href="/file/Overslag.pdf" download="Overslag">
+                        Overslag
                     </a>
                 </div>
-                <div class="col-lg-4 col-sm-6">
-                    <a href="img/portfolio/fullsize/3.jpg" class="portfolio-box">
-                        <img src="img/portfolio/thumbnails/3.jpg" class="img-responsive" alt="">
-                        <div class="portfolio-box-caption">
-                            <div class="portfolio-box-caption-content">
-                                <div class="project-category text-faded">
-                                    Category
-                                </div>
-                                <div class="project-name">
-                                    Project Name
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-                <div class="col-lg-4 col-sm-6">
-                    <a href="img/portfolio/fullsize/4.jpg" class="portfolio-box">
-                        <img src="img/portfolio/thumbnails/4.jpg" class="img-responsive" alt="">
-                        <div class="portfolio-box-caption">
-                            <div class="portfolio-box-caption-content">
-                                <div class="project-category text-faded">
-                                    Category
-                                </div>
-                                <div class="project-name">
-                                    Project Name
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-                <div class="col-lg-4 col-sm-6">
-                    <a href="img/portfolio/fullsize/5.jpg" class="portfolio-box">
-                        <img src="img/portfolio/thumbnails/5.jpg" class="img-responsive" alt="">
-                        <div class="portfolio-box-caption">
-                            <div class="portfolio-box-caption-content">
-                                <div class="project-category text-faded">
-                                    Category
-                                </div>
-                                <div class="project-name">
-                                    Project Name
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-                <div class="col-lg-4 col-sm-6">
-                    <a href="img/portfolio/fullsize/6.jpg" class="portfolio-box">
-                        <img src="img/portfolio/thumbnails/6.jpg" class="img-responsive" alt="">
-                        <div class="portfolio-box-caption">
-                            <div class="portfolio-box-caption-content">
-                                <div class="project-category text-faded">
-                                    Category
-                                </div>
-                                <div class="project-name">
-                                    Project Name
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
+                
             </div>
         </div>
     </section>
-
-    <aside class="bg-dark">
-        <div class="container text-center">
-            <div class="call-to-action">
-                <h2>Free Download at Start Bootstrap!</h2>
-                <a href="http://startbootstrap.com/template-overviews/creative/" class="btn btn-default btn-xl sr-button">Download Now!</a>
-            </div>
-        </div>
-    </aside>
 
     <section id="contact">
         <div class="container">
